@@ -1,0 +1,23 @@
+body {
+    font-family: 'open sans';
+  background: var(--fondo);
+  background: url(casa-kame-de-dragon-ball_2560x1440_xtrafondos.com.jpg);
+  height: auto;
+  
+  }
+
+  li {
+    width: 250px;
+    margin-bottom: 5px;
+    border: 3px solid #9b2424;
+    color: rgb(19, 18, 18);
+    text-align: center;
+  }
+  h1{ text-align: center;        
+    width: 250px;
+    color: rgb(15, 14, 15);
+  }
+  h2{ text-align: center;        
+    width: 250px;
+    color: rgb(34, 29, 29);
+  }
